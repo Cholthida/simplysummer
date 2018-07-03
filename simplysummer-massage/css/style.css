@@ -67,7 +67,6 @@ header nav ul ul {
   background-color: #FFFFE0;
   padding: 15px 5px;
   text-align: center;
-
 }
 header nav ul ul li{
   color:  #000;
@@ -97,7 +96,6 @@ header nav ul ul ul:hover li{
 }
 header nav ul ul ul ul li{
   padding: 10px;
-
 }
 body{
 margin: 0 auto;

@@ -110,19 +110,15 @@ main{
   background-position: center;
 
 }
-main h1 {
-  text-align: center;
-  color: #66cd00;
-}
 main p{
   margin: 100px 0px 100px 30px;
   padding: 25px;
   float: right;
-  color: #fff;
+  color: #333300;
   font-size: 22px;
   font-weight: bold;
   font-style: italic;
-  border: 1PX SOLID #7fff00;
+  border: 1PX SOLID #996633;
   box-shadow: rgba(102, 51, 0, 0.5);
 }
 .row{
@@ -145,7 +141,7 @@ main img{
   height: 800px;
   margin: 10px auto;
   padding-top: 175px;
-  background-image: url("https://images.unsplash.com/photo-1531128415655-a1de419087b1?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=f081d42039fdaac9db0d21f07100108a&auto=format&fit=crop&w=600&q=60");
+  background-image: url("https://images.unsplash.com/photo-1434754205268-ad3b5f549b11?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9c5bd37d9662a05f9c09b9099932a900&auto=format&fit=crop&w=600&q=60");
   background-size: cover;
   background-position: bottom;
 }
